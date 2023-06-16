@@ -1,6 +1,5 @@
 'use client';
 
-import Image from 'next/image'
 import GoogleButton from 'react-google-button'
 import { signIn } from 'next-auth/react'
 
